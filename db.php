@@ -1,0 +1,3 @@
+<?
+$mysqli = new mysqli('localhost', '', '', '');
+?>
